@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="HYD6121" name="com.qaautomatiom.selenium.demofromaveen" tests="1" failures="0" timestamp="31 Jul 2018 02:09:32 GMT" time="0.055" errors="0">
+  <testcase name="testhello" time="0.032" classname="com.qaautomatiom.selenium.demofromaveen"/>
+</testsuite>
